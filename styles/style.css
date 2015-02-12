@@ -381,6 +381,6 @@ input[type="text"], input[type="email"] {
 
 @media screen and (max-width: 480px) {
 	.container {
-		width: 400px;
+		width: 460px;
 	}
 }

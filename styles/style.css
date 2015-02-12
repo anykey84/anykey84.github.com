@@ -255,6 +255,10 @@ header nav ul li a {
 	border-left: solid 1px #333;
 }
 
+header nav ul li a#pull {
+    display: none;
+}
+
 header nav ul li a:hover {
 	background: #222;
 }

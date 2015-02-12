@@ -239,13 +239,14 @@ nav ul {
 }
 
 nav ul li {
+	width: 100px;
 	list-style: none;
 	display: inline;
 	float: right;
 }
 
 header nav ul li a {
-	width: 100px;
+	
 	display: block;
 	color: #fff;
 	text-decoration: none;

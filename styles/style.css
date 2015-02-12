@@ -240,7 +240,7 @@ nav ul {
 
 nav ul li {
 	list-style: none;
-	float: left;
+	float: right;
 }
 
 header nav ul li a {

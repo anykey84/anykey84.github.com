@@ -241,7 +241,7 @@ nav ul {
 nav ul li {
 	list-style: none;
 	display: inline;
-	float: right;
+	float: left;
 }
 
 header nav ul li a {
